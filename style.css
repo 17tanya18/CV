@@ -120,10 +120,10 @@ a.rull:hover {
   max-width: 300px;
   justify-self: center;
   overflow: hidden;
-  border: 10px solid #fff;
+  border: 10px solid #E6E6FA;
 
-  background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
-
+  background-image: linear-gradient(to top, #ebc0fd 0%, #d9ded8 100%);
+  
   animation: ava-animate 5s infinite ;
   box-shadow: 2px 5px 10px rgba(116, 116, 116, 0.5);
 }
@@ -171,6 +171,7 @@ a.rull:hover {
   .box {
     max-width: 350px;
     justify-self: center;
+
   }
 }
 
@@ -182,7 +183,7 @@ a.rull:hover {
   }
 
   20% {
-    border-radius: 75% 25% 75% 25% / 25% 75% 25% 75% 
+    border-radius: 70% 30% 82% 18% / 55% 28% 72% 45%   
   }
 
   50% {
@@ -198,6 +199,8 @@ a.rull:hover {
   }
 
 }
+
+
 
 @keyframes ava-bg {
   from {
