@@ -120,9 +120,9 @@ a.rull:hover {
   max-width: 300px;
   justify-self: center;
   overflow: hidden;
-  border: 10px solid #fff;
+  border: 10px solid #E6E6FA;
 
-  background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
 
   animation: ava-animate 5s infinite ;
   box-shadow: 2px 5px 10px rgba(116, 116, 116, 0.5);
@@ -190,7 +190,7 @@ a.rull:hover {
   }
 
   75% {
-    border-radius: 25% 75% 25% 75% / 75% 25% 75% 25% 
+    border-radius: 70% 30% 73% 27% / 79% 28% 72% 21%
   }
   
   100% {
